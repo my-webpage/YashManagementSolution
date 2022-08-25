@@ -1534,106 +1534,15 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tfsfEl3iXg {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-tfsfEl3iXg .container {
-  display: flex;
-  justify-content: center;
-}
-.cid-tfsfEl3iXg .main-row {
-  align-items: center;
-  max-width: 1170px;
-  width: 100%;
-}
-.cid-tfsfEl3iXg .content-container {
-  display: flex;
-  align-items: stretch;
-  justify-content: center;
-  flex-wrap: wrap;
-  background-color: #ffffff;
-  box-shadow: 0 -30px 100px rgba(0, 37, 133, 0.03);
-  border-radius: 30px;
-  padding: 0 !important;
-}
-.cid-tfsfEl3iXg .col-text {
-  display: flex;
-  padding: 50px 15px 60px 70px;
-}
-@media (max-width: 1199px) {
-  .cid-tfsfEl3iXg .col-text {
-    padding: 40px 15px 30px;
-  }
-}
-.cid-tfsfEl3iXg .col-text1 {
-  border-right: 1px solid #dfeaf9;
-}
-@media (max-width: 767px) {
-  .cid-tfsfEl3iXg .col-text1 {
-    border-right: none;
-    border-bottom: 1px solid #dfeaf9;
-  }
-}
-.cid-tfsfEl3iXg .icon-box {
-  display: flex;
-  margin-right: 40px;
-}
-@media (max-width: 1199px) {
-  .cid-tfsfEl3iXg .icon-box {
-    margin-right: 20px;
-  }
-}
-.cid-tfsfEl3iXg .icon-box .mbr-iconfont {
-  color: #0066ff;
-  font-size: 68px;
-}
-@media (max-width: 1199px) {
-  .cid-tfsfEl3iXg .icon-box .mbr-iconfont {
-    font-size: 40px;
-  }
-}
-.cid-tfsfEl3iXg .text-container {
-  flex-grow: 1;
-}
-.cid-tfsfEl3iXg .mbr-section-title {
-  color: #010d4c;
-  margin-bottom: 10px;
-}
-.cid-tfsfEl3iXg .mbr-text {
-  color: #00284E;
-  opacity: 0.8;
-  margin-bottom: 0;
-}
-.cid-tfsfEl3iXg .link-text {
-  margin-bottom: 0;
-  margin-top: 5px;
-}
-.cid-tfsfEl3iXg .link-text a:hover {
-  text-decoration: underline;
-}
-.cid-tfsfEl3iXg .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tfsfEl3iXg .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tfscA2RGHU {
+.cid-tfvPyVowin {
   padding-top: 0rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background: #ffffff;
 }
-.cid-tfscA2RGHU .mbr-fallback-image.disabled {
+.cid-tfvPyVowin .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tfscA2RGHU .mbr-fallback-image {
+.cid-tfvPyVowin .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1642,15 +1551,23 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tfscA2RGHU .google-map {
-  height: 350px;
+@media (max-width: 767px) {
+  .cid-tfvPyVowin .row {
+    flex-direction: column-reverse;
+  }
+  .cid-tfvPyVowin .row .map-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tfvPyVowin .google-map {
+  height: 100%;
   position: relative;
 }
-.cid-tfscA2RGHU .google-map iframe {
+.cid-tfvPyVowin .google-map iframe {
   height: 100%;
   width: 100%;
 }
-.cid-tfscA2RGHU .google-map [data-state-details] {
+.cid-tfvPyVowin .google-map [data-state-details] {
   color: #6b6763;
   height: 1.5em;
   margin-top: -0.75em;
@@ -1661,14 +1578,38 @@ a {
   top: 50%;
   width: 100%;
 }
-.cid-tfscA2RGHU .google-map[data-state] {
+.cid-tfvPyVowin .google-map[data-state] {
   background: #e9e5dc;
 }
-.cid-tfscA2RGHU .google-map[data-state="loading"] [data-state-details] {
+.cid-tfvPyVowin .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-tfscA2RGHU .mbr-section-subtitle {
-  text-align: left;
+.cid-tfvPyVowin .image-wrapper {
+  display: flex;
+  align-items: center;
+}
+.cid-tfvPyVowin .card-wrapper {
+  display: flex;
+  border-radius: 4px;
+  background: #fafafa;
+}
+.cid-tfvPyVowin .card-wrapper:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-tfvPyVowin .card-wrapper {
+    padding: 1rem 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tfvPyVowin .card-wrapper {
+    padding: 2rem 4rem;
+  }
+}
+.cid-tfvPyVowin .mbr-iconfont {
+  font-size: 2rem;
+  padding-right: 1.5rem;
+  color: #8caff0;
 }
 .cid-tffftRKl6W {
   padding-top: 5rem;
