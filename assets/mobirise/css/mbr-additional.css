@@ -1001,7 +1001,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #e43f3f;
+  background-color: #232323;
 }
 .cid-tf7mlZAO5E button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1075,7 +1075,7 @@ a {
 .cid-tf7mRWrDCT {
   padding-top: 4rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pngtreeabstract-paper-hexagon-white-background-1207068-1920x900.jpg");
 }
 .cid-tf7mRWrDCT .wrapper {
   padding: 0;
@@ -1104,7 +1104,7 @@ a {
 .cid-tfpiP3gEBX {
   padding-top: 1rem;
   padding-bottom: 4rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/pngtreeabstract-paper-hexagon-white-background-1207068-1920x900.jpg");
 }
 .cid-tfpiP3gEBX blockquote {
   margin-bottom: 0;
@@ -1149,7 +1149,7 @@ a {
 .cid-tfs950nR5G {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-tfs950nR5G .line {
   background-color: #6592e6;
@@ -1159,11 +1159,12 @@ a {
 }
 .cid-tfs950nR5G .mbr-text {
   text-align: center;
+  color: #000000;
 }
 .cid-tfrY8OkGiX {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-color: #ffffff;
 }
 .cid-tfrY8OkGiX .mbr-fallback-image.disabled {
   display: none;
@@ -1204,10 +1205,15 @@ a {
 .cid-tfrY8OkGiX .card-box {
   text-align: left;
 }
+.cid-tfrY8OkGiX .mbr-text,
+.cid-tfrY8OkGiX .link-wrap,
+.cid-tfrY8OkGiX .mbr-section-btn {
+  color: #000000;
+}
 .cid-tfrZzZSTdl {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/pngtreeabstract-paper-hexagon-white-background-1207068-1920x900.jpg");
 }
 .cid-tfrZzZSTdl .mbr-fallback-image.disabled {
   display: none;
@@ -1240,12 +1246,12 @@ a {
   width: 1.6rem;
 }
 .cid-tfrZzZSTdl H3 {
-  text-align: right;
+  text-align: center;
 }
 .cid-tfs1gyfLWU {
   padding-top: 3rem;
   padding-bottom: 1rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/pngtreeabstract-paper-hexagon-white-background-1207068-1920x900.jpg");
 }
 .cid-tfs1gyfLWU .mbr-fallback-image.disabled {
   display: none;
@@ -1278,7 +1284,7 @@ a {
 .cid-tfs1Ymtm5n {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/pngtreeabstract-paper-hexagon-white-background-1207068-1920x900.jpg");
 }
 .cid-tfs1Ymtm5n .mbr-fallback-image.disabled {
   display: none;
@@ -1356,7 +1362,7 @@ a {
 .cid-tffdK1RW9L {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/pngtreeabstract-paper-hexagon-white-background-1207068-1920x900.jpg");
 }
 .cid-tffdK1RW9L .mbr-fallback-image.disabled {
   display: none;
@@ -1614,11 +1620,11 @@ a {
 .cid-tffftRKl6W {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/pngtreeabstract-paper-hexagon-white-background-1207068-1920x900.jpg");
 }
 .cid-tffftRKl6W .mbr-overlay {
-  background-color: #6592e6;
-  opacity: 0.4;
+  background-color: #4479d9;
+  opacity: 0.1;
 }
 .cid-tffftRKl6W form.mbr-form {
   border-radius: 10px;
